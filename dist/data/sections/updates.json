@@ -19,13 +19,6 @@
             "title_menu": "Mises à Jour",
             "title_long_prefix": "Découvrez mes",
             "title_long": "Dernières **Mises à Jour**"
-        },
-
-        "ko": {
-            "title": "최근의 삶",
-            "title_menu": "업데이트",
-            "title_long_prefix": "내 최근",
-            "title_long": "**업데이트**를 확인해 보세요"
         }
     },
 
@@ -55,10 +48,6 @@
                         "fr": {
                             "title": "03",
                             "info": "Applications publiées"
-                        },
-                        "ko": {
-                            "title": "03",
-                            "info": "출시된 앱"
                         }
                     }
                 },
@@ -80,10 +69,6 @@
                         "fr": {
                             "title": "100+",
                             "info": "Étoiles sur GitHub"
-                        },
-                        "ko": {
-                            "title": "100+",
-                            "info": "GitHub 별"
                         }
                     }
                 },
@@ -105,10 +90,6 @@
                         "fr": {
                             "title": "12",
                             "info": "Pays visités"
-                        },
-                        "ko": {
-                            "title": "12",
-                            "info": "방문한 나라"
                         }
                     }
                 },
@@ -130,10 +111,6 @@
                         "fr": {
                             "title": "07",
                             "info": "Projets open-source"
-                        },
-                        "ko": {
-                            "title": "07",
-                            "info": "오픈 소스 프로젝트"
                         }
                     }
                 },
@@ -155,10 +132,6 @@
                         "fr": {
                             "title": "20,000",
                             "info": "Cafés consommés"
-                        },
-                        "ko": {
-                            "title": "20,000",
-                            "info": "마신 커피"
                         }
                     }
                 }
@@ -173,8 +146,7 @@
             "locales": {
                 "en": { "title": "Quick **Facts**" },
                 "es": { "title": "Feed de **Noticias**" },
-                "fr": { "title": "Fil d'**Actualités**" },
-                "ko": { "title": "**뉴스** 피드" }
+                "fr": { "title": "Fil d'**Actualités**" }
             },
 
             "items": [
@@ -196,10 +168,6 @@
                         "fr": {
                             "title": "Déménagement en **Californie !**",
                             "text": "Transition réussie en Californie pour explorer de nouvelles opportunités de carrière dans l'industrie technologique, tirant parti de l'écosystème local dynamique pour améliorer ma croissance professionnelle."
-                        },
-                        "ko": {
-                            "title": "**캘리포니아로 이사했습니다!**",
-                            "text": "기술 산업의 새로운 직업 기회를 탐색하기 위해 캘리포니아로 성공적으로 이주하였으며, 지역 생태계를 활용하여 전문성을 향상시키고 있습니다."
                         }
                     }
                 },
@@ -224,10 +192,6 @@
                         "fr": {
                             "title": "Création de ma propre **chaîne YouTube** !",
                             "text": "Lancement d'une chaîne YouTube axée sur des tutoriels de programmation, partageant des idées et des techniques sur diverses technologies, et interagissant avec une communauté de développeurs en herbe."
-                        },
-                        "ko": {
-                            "title": "자신의 **유튜브 채널을** 시작했습니다!",
-                            "text": "프로그래밍 튜토리얼에 초점을 맞춘 유튜브 채널을 시작하여 다양한 기술에 대한 통찰력과 기법을 공유하고, 개발자 지망생 커뮤니티와 소통하고 있습니다."
                         }
                     }
                 },
@@ -250,10 +214,6 @@
                         "fr": {
                             "title": "Travail sur un nouveau **projet mobile** !",
                             "text": "Actuellement en train de développer une application mobile qui intègre des fonctionnalités innovantes et un design convivial, visant à améliorer l'expérience utilisateur et à répondre à des besoins spécifiques du marché."
-                        },
-                        "ko": {
-                            "title": "새 **모바일 프로젝트** 작업 중!",
-                            "text": "혁신적인 기능과 사용자 친화적인 디자인을 통합한 모바일 애플리케이션을 현재 개발 중이며, 사용자 경험을 향상하고 특정 시장의 요구를 충족하는 것을 목표로 하고 있습니다."
                         }
                     }
                 },
@@ -278,10 +238,6 @@
                         "fr": {
                             "title": "Lancement de mon **site web personnel** !",
                             "text": "Création d'un site web personnel pour présenter mes projets, partager mon parcours en programmation et fournir des ressources pour d'autres développeurs."
-                        },
-                        "ko": {
-                            "title": "**개인 웹사이트**를 시작했습니다!",
-                            "text": "내 프로젝트를 소개하고 프로그래밍 여정을 공유하며 다른 개발자들을 위한 리소스를 제공하기 위해 개인 웹사이트를 만들었습니다."
                         }
                     }
                 }

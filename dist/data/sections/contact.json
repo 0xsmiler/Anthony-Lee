@@ -16,12 +16,6 @@
             "title": "Contact",
             "title_long_prefix": "N'hésitez pas à",
             "title_long": "Me **Contacter**"
-        },
-
-        "ko": {
-            "title": "연락처",
-            "title_long_prefix": "주저하지 말고",
-            "title_long": "**연락** 주세요"
         }
     },
 
@@ -33,8 +27,7 @@
             "locales": {
                 "en": {"title": "Send me a **message**"},
                 "es": {"title": "Envíame un **mensaje**"},
-                "fr": {"title": "Envoyez-moi un **message**"},
-                "ko": {"title": "**메시지를** 보내주세요"}
+                "fr": {"title": "Envoyez-moi un **message**"}
             },
 
             "items": null
@@ -49,15 +42,14 @@
             "locales": {
                 "en": {"title": "Or if you **prefer**..."},
                 "es": {"title": "O si **prefieres**..."},
-                "fr": {"title": "Ou si vous **préférez**..."},
-                "ko": {"title": "또는 **원하시면**..."}
+                "fr": {"title": "Ou si vous **préférez**..."}
             },
 
             "items": [
                 {
-                    "value": "+1 (123) 456-7890",
+                    "value": "+1 (619) 485-0913",
                     "links": [
-                        {"href": "tel:11234567890"}
+                        {"href": "tel:16194850913"}
                     ],
                     "icon": {
                         "img": null,
@@ -67,15 +59,14 @@
                     "locales": {
                         "en": {"title": "Phone"},
                         "es": {"title": "Teléfono"},
-                        "fr": {"title": "Téléphone"},
-                        "ko": {"title": "전화"}
+                        "fr": {"title": "Téléphone"}
                     }
                 },
 
                 {
-                    "value": "mark.choi@email.com",
+                    "value": "anthonylee110.eng@gmail.com",
                     "links": [
-                        {"href": "mailto:mark.choi@email.com"}
+                        {"href": "mailto:anthonylee110.eng@gmail.com"}
                     ],
                     "icon": {
                         "img": null,
@@ -83,15 +74,14 @@
                         "faColors": {"bg": null, "fill": null}
                     },
                     "locales": {
-                        "en": {"title": "E-mail"},
-                        "ko": {"title": "이메일"}
+                        "en": {"title": "E-mail"}
                     }
                 },
 
                 {
-                    "value": "@markchoi",
+                    "value": "@anthonylee110",
                     "links": [
-                        {"href": "https://linkedin.com"}
+                        {"href": "https://linkedin.com/in/anthonylee110"}
                     ],
                     "icon": {
                         "img": null,
@@ -104,17 +94,17 @@
                 },
 
                 {
-                    "value": "Mark Choi",
+                    "value": "Anthony Lee",
                     "links": [
-                        {"href": "https://facebook.com"}
+                        {"href": "https://join.skype.com/invite/iEz7Clvgs1iP"}
                     ],
                     "icon": {
                         "img": null,
-                        "fa": "fa-brands fa-facebook",
+                        "fa": "fa-brands fa-skype",
                         "faColors": {"bg": null, "fill": null}
                     },
                     "locales": {
-                        "en": {"title": "Facebook"}
+                        "en": {"title": "Skype"}
                     }
                 },
 
